@@ -1,2 +1,3 @@
 # Purely-Optimized
-A performance-focused Minecraft modpack with optimized settings, shaders, and visual improvements.
+Here you can Report any issues with the Modpack purely optimized on Modrinth 
+https://modrinth.com/modpack/purely-optimized-nvidia
