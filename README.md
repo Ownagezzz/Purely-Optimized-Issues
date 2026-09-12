@@ -21,11 +21,11 @@ Instructions for **FSR**: Do not change the settings for the upscaler, unless yo
 <img width="846" height="467" alt="Screenshot 2026-08-04 181558" src="https://github.com/user-attachments/assets/ad3308a0-6572-442e-82be-72f22434a00c" />
 
 
-or these if you're on older version
+or these if you're on older version:
 
 <img width="2560" height="1355" alt="javaw_QlOykDtSve" src="https://github.com/user-attachments/assets/f8900d7f-5cc9-4549-b598-3fc45f06b9cf" />
 
 
 <img width="2542" height="748" alt="javaw_OHtscMuOdj" src="https://github.com/user-attachments/assets/80eba380-813d-4c34-8945-ee9741f5d887" />
-(ignore my drawing skill btw)
+(ignore my drawing skills btw)
 
