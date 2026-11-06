@@ -29,3 +29,12 @@ or these if you're on older version:
 <img width="2542" height="748" alt="javaw_OHtscMuOdj" src="https://github.com/user-attachments/assets/80eba380-813d-4c34-8945-ee9741f5d887" />
 (ignore my drawing skills btw)
 
+
+
+OR if you're on the completely different mod
+<img width="1920" height="1009" alt="javaw_rjRrG1B6ZK" src="https://github.com/user-attachments/assets/8f9b82a7-2380-430c-898d-06d60ba0a034" />
+
+
+
+<img width="1920" height="1009" alt="javaw_2Pt8JncB3g" src="https://github.com/user-attachments/assets/e4005408-e1ce-4435-8747-9a56c567cc99" />
+
